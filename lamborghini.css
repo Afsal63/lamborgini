@@ -43,7 +43,7 @@ li ion-icon{
 }
 .background{
     height: 100vh;
-    background-image:url(/lamborghini/car1.webp);
+    background-image:url(car1.webp);
     background-size:cover ;
     display: flex;
 }
@@ -56,7 +56,7 @@ li ion-icon{
 }
 .background1{
     height: 100vh;
-    background-image:url(/lamborghini/lam2.webp);
+    background-image:url(lam2.webp);
     display: flex;
     background-size: contain;
     background-repeat: no-repeat;
