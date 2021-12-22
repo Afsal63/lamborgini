@@ -1,0 +1,116 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.heder{
+       
+    z-index: 5;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60px;
+     
+    
+
+background-color:rgba(0,0,0,0.8);
+position: fixed;
+
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+ul{
+    list-style: none;
+    display: flex;
+justify-content: space-around;
+padding-left: 20px;
+padding-right: 20px;
+align-items: center;
+}
+li{
+    
+    color: rgb(255, 255, 255);
+   
+    font-size: 15px;
+}
+li img{
+    width: 2rem;
+}
+li ion-icon{
+    font-size: 20px;
+}
+.background{
+    height: 100vh;
+    background-image:url(/lamborghini/car1.webp);
+    background-size:cover ;
+    display: flex;
+}
+.bh{
+    text-align: center;
+    color: white;
+    margin-left: 3rem;
+    font-size: 7rem;
+    margin-top: 15%;
+}
+.background1{
+    height: 100vh;
+    background-image:url(/lamborghini/lam2.webp);
+    display: flex;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+.bh1{
+    text-align: center;
+    color:black;
+    margin-left: 2rem;
+    font-size: 5rem;
+    margin-top: 15%;
+}
+.News{
+margin-bottom: 5%;
+    width: 100%;
+ display: flex;
+ align-items: center;
+}
+
+.News img{
+   
+    width: 45%;
+    height: 45%;
+    padding-left: 5%;
+   
+    
+}
+
+.all{
+display: flex;
+margin-bottom: -1%;
+    
+    width: 100%;
+   align-items: center;
+   text-align: center;
+   background-color: rgb(26, 24, 24);
+}
+#co{
+ padding-top: 10%;
+   color: white;
+
+}
+.ty{
+margin-top: 6%;
+
+}
+
+.typ{
+color: white;
+
+font-size: 1rem;
+font-family: Garamond, serif;
+font-weight: lighter;
+}
+.all{
+    padding-top: 2%;
+}
